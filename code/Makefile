@@ -14,4 +14,4 @@ setup:
 	python3.8 -m venv env
 
 run:
-	uvicorn app.main:app
+	docker-compose up
