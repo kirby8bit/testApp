@@ -11,4 +11,3 @@ def get_operations(name: str ,message: str):
 
 if __name__ == "__main__":
     print("app start !")
-    uvicorn.run("main:app", port=8000, reload=True)

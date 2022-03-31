@@ -14,4 +14,4 @@ setup:
 	python3.8 -m venv env
 
 run:
-	docker-compose up
+	docker-compose up 
